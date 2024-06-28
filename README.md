@@ -1,6 +1,6 @@
 ## Migrants Destination For Nobel winning Research
 
-The data shows that The United States is the Top Destination where Scientist conduct their Nobel winning research
+The data shows that the United States is the top destination where scientist conduct their Nobel winning research
 
 ![image](https://github.com/adelvictor/Nobel-Laureate/assets/90832476/29bf701a-a4ce-48e5-b486-bca91e187681)
 
